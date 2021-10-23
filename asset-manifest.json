@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cityweather/static/css/main.0edf4bc8.chunk.css",
+    "main.js": "/cityweather/static/js/main.6ab184d0.chunk.js",
+    "main.js.map": "/cityweather/static/js/main.6ab184d0.chunk.js.map",
+    "runtime-main.js": "/cityweather/static/js/runtime-main.d8259edb.js",
+    "runtime-main.js.map": "/cityweather/static/js/runtime-main.d8259edb.js.map",
+    "static/js/2.7617658e.chunk.js": "/cityweather/static/js/2.7617658e.chunk.js",
+    "static/js/2.7617658e.chunk.js.map": "/cityweather/static/js/2.7617658e.chunk.js.map",
+    "index.html": "/cityweather/index.html",
+    "static/css/main.0edf4bc8.chunk.css.map": "/cityweather/static/css/main.0edf4bc8.chunk.css.map",
+    "static/js/2.7617658e.chunk.js.LICENSE.txt": "/cityweather/static/js/2.7617658e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8259edb.js",
+    "static/js/2.7617658e.chunk.js",
+    "static/css/main.0edf4bc8.chunk.css",
+    "static/js/main.6ab184d0.chunk.js"
+  ]
+}
